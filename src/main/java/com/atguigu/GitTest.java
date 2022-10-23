@@ -9,6 +9,7 @@ public class GitTest {
         System.out.println("master");
         System.out.println("hot fix");
         System.out.println("github push");
-          System.out.println("poll test");
+        System.out.println("poll test");
+        System.out.println("github edit wait update");
     }
 }
